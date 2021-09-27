@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm João
+
+I'm experienced IT professional with more than 5-year of experience in the corporate and management environment. Skilled in handling multiple tasks and business rules between front-end and back-end. Acting on a variety of system development, such as, government auction, retirement planning and leasing simulations. Using modern languages (eg. Java, JS, React, C# and Angular) and tools (Vs Code, Intellij, DbEaver and Docker).
+
+<p align='center'>
+<a href="https://www.linkedin.com/m/in/jo%C3%A3o-marcos-m-03772344"><img height="30" src="https://raw.githubusercontent.com/jmmccota/jmmccota/main/linkedin.png?raw=true"></a>
+</p>
+
+Fell free to contact me 😄
 
 <!--
 **jmmccota/jmmccota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
