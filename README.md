@@ -2,11 +2,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/João_Cota-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/m/in/jo%C3%A3o-marcos-m-03772344)
 
-I'm experienced IT professional with more than 5-year of experience in the corporate and management environment. Skilled in handling multiple tasks and business rules between front-end and back-end. Acting on a variety of system development, such as, government auction, retirement planning and leasing simulations. Using modern languages (eg. Java, JS, React, C# and Angular) and tools (Vs Code, Intellij, DbEaver and Docker).
-
-
-  
-
+I'm experienced IT professional with more than 7-year of experience in the corporate and management environment. Skilled in handling multiple tasks and business rules between front-end and back-end. Working on a variety of system development, such as, government auction, retirement planning, leasing simulations and learning management systems. Using modern languages (eg. Java, JS and C#), frameworks and libraries (eg. React, NodeJS, Angular, Micronaut, SpringBoot and .Net) and tools (eg. Vs Code, Intellij, DbEaver and Docker).
 
 Fell free to contact me 😄
 
