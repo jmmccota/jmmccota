@@ -6,7 +6,7 @@ I'm a software engineer experienced at building and defining solutions for vario
 
 Currently I'm a full stack developer, working on both sides of an application development, mainly handling multiple tasks and business rules between front-end and back-end. In addition, I also monitor and whenever possible try to optimize the resources used by these applications in the cloud, focusing on cost reduction and performance optimizations.
 
-I also have experience building single page applications using React and years of web application development in Java. I also know Kotlin, C#(.Net Core), NodeJs and Angular. When not working at my day job you can find me helping and developing applications as described in my projects or see more on my [Github](github.com/jmmccota).
+I also have experience building single page applications using React and years of web application development in Java. I also know Kotlin, C#(.Net Core), NodeJs and Angular. When not working at my day job you can find me helping and developing applications as described in my projects or see more on here on my Github.
 
 Specialties: web development, usability analysis, object oriented software construction, concurrent software development, teaching, software architeture, domain driven design, agile methods, test-behaviour driven development, performance analysis and optimization, design systems, server and cloud management and monitoring, Java, Kotlin, C#, NodeJs, JavaScript, React, Angular, Docker, Kubernetes and AWS.
 
